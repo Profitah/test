@@ -73,7 +73,7 @@ b = 7;  // b의 값이 5에서 7로 변경될 때 새로운 메모리 공간이 
 
 ## 데이터 할당과 변경 <br>
 
-<img width="435" alt="스크린샷 2024-07-07 오후 8 49 25" src="https://github.com/Profitah/jsstudymd_img/assets/101340482/c4d095c3-be81-459f-8791-8ad49f293089">
+<img width="461" alt="스크린샷 2024-07-07 오후 11 53 42" src="https://github.com/Profitah/test/assets/101340482/a0ec10b9-3cbe-437f-a5bb-6e57b3d42a77">
 
 ```javascript
 var obj1 = {
